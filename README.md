@@ -3,7 +3,7 @@
 
 ## Introduction
 
-This project demonstrates a multi-step approach to web scraping and data analysis, focusing on two key areas: scraping Mars-related news and analyzing Martian weather data. Splinter, BeautifulSoup, Pandas, and Matplotlib are leveraged to scrape, clean, analyze, and visualize data. This portfolio project serves as an example of skills relevant for a job application in data mining and web scraping.
+This project demonstrates a multi-step approach to web scraping and data analysis, focusing on two key areas: scraping Mars-related news and analyzing Martian weather data. Splinter, BeautifulSoup, Pandas, and Matplotlib are leveraged to scrape, clean, analyze, and visualize data. 
 
 ## Tools and Libraries Used
 
@@ -95,4 +95,4 @@ This project demonstrates a multi-step approach to web scraping and data analysi
 
 ## Conclusion
 
-This project demonstrates a comprehensive set of skills in web scraping, data cleaning, data analysis, and data visualization. It highlights the ability to not only scrape web data but also to analyze and interpret it, making it an ideal portfolio piece for a job in data mining or web scraping.
+This project demonstrates a comprehensive set of skills in web scraping, data cleaning, data analysis, and data visualization. It highlights the ability to not only scrape web data but also to analyze and interpret it.
